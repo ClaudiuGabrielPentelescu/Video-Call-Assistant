@@ -1,0 +1,7 @@
+Pillow
+PyAudio; platform_system != 'Darwin' and platform_system != 'Linux'
+SpeechRecognition
+mediapipe
+numpy
+opencv-python
+pyttsx3
